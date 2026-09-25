@@ -1,6 +1,6 @@
 {
     "sonarlint.connectedMode.project": {
-        "connectionId": "",
-        "projectKey": ""
+        "connectionId": "greek",
+        "projectKey": "Greek_COSC442_Project1"
     }
 }
